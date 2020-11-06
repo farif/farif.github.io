@@ -8,7 +8,7 @@ funding: 'Defense Advanced Research Projects Agency (DARPA)'
 type: 'Runtime Verification, Monitors, and Lustre'
 
 ---
-[![Little red riding hood](http://farif.github.io/files/projects/case_program.png)]
+![Little red riding hood](http://farif.github.io/files/projects/case_program.png)
 
 The project verdict is about building high assurance system designs that are resilient against cyber-attacks using formal verification. In essence, we analyze the system design prior to its' development. 
 Methodology: Architecture/interface is specified in AADL while the behavior is encoded using Agree-Annex. 
