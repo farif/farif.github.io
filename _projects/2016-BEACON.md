@@ -1,5 +1,5 @@
 ---
-title: "BEACON - (Axiom Pinpointing) Justifying consequences in Automated Reasoning​"
+title: "BEACON - Axiom Pinpointing "
 tool : 'verdict'
 date: 2016-09-30
 collection: projects
@@ -8,9 +8,13 @@ funding: 'Science Foundation Ireland (SFI)'
 type: 'Constraint-Solving, Debugging Ontologies and Explanation'
 
 ---
+
+Justifying the consequences in automated reasoning​
+[The page is in progress...]
+
 ![Little red riding hood](http://farif.github.io/files/projects/beacon-method.png)
 
-[TODO]
+
 
 ![Little red riding hood](http://farif.github.io/files/projects/beacon-example.png)
 
