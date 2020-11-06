@@ -15,7 +15,8 @@ at [The University of Iowa](https://cs.uiowa.edu/) and my advisors are
 [Cesare Tinelli](https://homepage.cs.uiowa.edu/~tinelli/) 
 and 
 [Omar Haider Chaudry](https://homepage.cs.uiowa.edu/~comarhaider/). 
-I received my Ph.D. from [University College Dublin](https://www.ucd.ie/) and was supervised by [Joao Marques-Silva](https://jpmarquessilva.github.io/).
+I received my Ph.D. from [University College Dublin](https://www.ucd.ie/)
+under the supervision of [Joao Marques-Silva](https://jpmarquessilva.github.io/).
 
 Research Interests
 ======
