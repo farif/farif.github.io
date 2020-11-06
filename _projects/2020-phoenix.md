@@ -1,7 +1,7 @@
 ---
 title: "PHOENIX: Building a Next-gen IDS for cellular devices operating on 4G/LTE."
 tool : 'verdict'
-date: 2019-2020
+date: 2020-02-30 
 collection: projects
 permalink: /projects/2020-phoenix
 funding: 'Defense Advanced Research Projects Agency (DARPA)'

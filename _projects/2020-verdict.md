@@ -1,7 +1,7 @@
 ---
 title: "VERDICT - CRV (Cyber Resiliency Verifier)"
 tool : 'verdict'
-date: 2018-2020
+date: 2018-09-30
 collection: projects
 permalink: /projects/2020-verdict
 funding: 'Defense Advanced Research Projects Agency (DARPA)'
