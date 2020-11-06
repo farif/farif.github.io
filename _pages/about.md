@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -30,7 +31,7 @@ Previous Work Experience
   
 Selected Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.spublications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 

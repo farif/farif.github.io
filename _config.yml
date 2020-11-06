@@ -160,6 +160,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  spublications:
+    output: true
+    permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/
