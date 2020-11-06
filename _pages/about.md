@@ -14,7 +14,7 @@ at [The University of Iowa](https://cs.uiowa.edu/), advised by
 [Cesare Tinelli](https://homepage.cs.uiowa.edu/~tinelli/) 
 and 
 [Omar Haider Chaudry](https://homepage.cs.uiowa.edu/~comarhaider/). 
-I received a Ph.D. from [University College Dublin (UCD)](https://www.ucd.ie/), supervised by 
+I received a Ph.D. degree from [University College Dublin (UCD)](https://www.ucd.ie/), supervised by 
 [Joao Marques-Silva](https://jpmarquessilva.github.io/).
 
 Research Interests
