@@ -8,6 +8,8 @@ funding: 'Defense Advanced Research Projects Agency (DARPA)'
 type: 'IDS, Runtime Verification, LTE'
 
 ---
+[![Little red riding hood](http://farif.github.io/files/projects/warning_system.png)]
+
 Protocol states machines are susceptible to various attacks where an adversary sending an out of sequence message over the air can manipulate a victim device.  Here are a few examples of these attacks: 
 DoS - IMSI cracking 
 Eves Dropping - Aka Bypass
