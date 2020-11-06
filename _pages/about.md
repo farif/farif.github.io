@@ -20,8 +20,8 @@ Research Interests
 ======
 [comment]: <> ([Automated Reasoning](https://plato.stanford.edu/entries/reasoning-automated/),) 
 [SAT](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem)/[SMT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories),
-[Software Verification](https://en.wikipedia.org/wiki/Model_checking), 
-[Computer Security](https://en.wikipedia.org/wiki/Computer_security), and [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
+[Software Verification](https://en.wikipedia.org/wiki/Model_checking), and 
+[Computer Security](https://en.wikipedia.org/wiki/Computer_security)
 
 Previous Work Experience
 ======
