@@ -5,7 +5,7 @@ date: 2020-02-30
 collection: projects
 permalink: /projects/2020-phoenix
 funding: 'Defense Advanced Research Projects Agency (DARPA)'
-type: 'IDS, Runtime Verification, LTE'
+type: 'IDS, LTL, Runtime Verification, LTE'
 
 ---
 ![Little red riding hood](http://farif.github.io/files/projects/warning_system.png)
