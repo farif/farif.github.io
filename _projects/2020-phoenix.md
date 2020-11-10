@@ -13,7 +13,7 @@ type: 'IDS, LTL, Runtime Verification, LTE'
 Protocol states machines are susceptible to various attacks where an adversary sending an out of sequence message over-the-air can manipulate any victim's device. 
 Below, we have listed few examples of such attacks:
 
-[![Little red riding hood](http://farif.github.io/files/projects/attacks.png)
+![Little red riding hood](http://farif.github.io/files/projects/attacks.png)
 
 As an infrastructure, the wireless broadband communication comprises of several components.  The core-network (service provider) is responsible for all server-side management and 
 the base-stations are responsible for interlinking devices (UE) to the core network.
