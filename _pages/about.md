@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher in 
+I am a Postdoctoral Researcher in the
 [Computational Logic Center](http://clc.cs.uiowa.edu/site/index.shtml)
 at [The University of Iowa](https://cs.uiowa.edu/) and my advisors are 
 [Cesare Tinelli](https://homepage.cs.uiowa.edu/~tinelli/) 
