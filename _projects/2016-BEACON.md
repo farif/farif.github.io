@@ -1,7 +1,7 @@
 ---
 title: "BEACON - Axiom Pinpointing "
 tool : 'verdict'
-date: 2016-09-30
+date: 2020-10-30
 collection: projects
 permalink: /projects/2016-BEACON
 funding: 'Science Foundation Ireland (SFI)'
