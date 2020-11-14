@@ -9,14 +9,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher in 
+I am a Postdoctoral Researcher in the
 [Computational Logic Center](http://clc.cs.uiowa.edu/site/index.shtml)
-at [The University of Iowa](https://cs.uiowa.edu/), advised by 
+at [The University of Iowa](https://cs.uiowa.edu/) and my advisors are 
 [Cesare Tinelli](https://homepage.cs.uiowa.edu/~tinelli/) 
 and 
 [Omar Haider Chaudry](https://homepage.cs.uiowa.edu/~comarhaider/). 
-I received a Ph.D. from [University College Dublin (UCD)](https://www.ucd.ie/), supervised by 
-[Joao Marques-Silva](https://jpmarquessilva.github.io/).
+I received my Ph.D. from [University College Dublin](https://www.ucd.ie/)
+under the supervision of [Joao Marques-Silva](https://jpmarquessilva.github.io/).
 
 Research Interests
 ======
@@ -29,5 +29,11 @@ Previous Work Experience
 ======
 * [McAfee Labs](https://www.mcafee.com/enterprise/en-us/threat-center/mcafee-labs.html): Security Researcher 
 * [TSSG ArcLabs](https://tssg.org/research/): Research Engineer 
+
+Selected Publications
+======
+  <ul>{% for post in site.spublications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 
