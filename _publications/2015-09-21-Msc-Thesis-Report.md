@@ -9,5 +9,5 @@ paperurl: 'http://farif.github.io/files/papers/Farif-Msc-Thesis-Report-11.pdf'
 citation: 'M. Fareed Arif <i>MSc. Thesis 2011</i>'
 ---
 
-<a href='http://farif.github.io/files/papers/Farif-Msc-Thesis-Report-11.pdf'>Download Paper</a>
+<a href='http://farif.github.io/files/papers/Farif-Msc-Thesis-Report-11.pdf'>Download Report</a>
 <a href='https://github.com/farif/'>Tool Link</a>
