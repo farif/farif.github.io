@@ -168,7 +168,7 @@
 
   @include breakpoint($small) {
     margin-bottom: 0;
-    @include gallery(4 of 12);
+    @include gallery(4 of 10);
 
     .feature__item-teaser {
       max-height: 200px;
@@ -186,13 +186,13 @@
 
     @include breakpoint($small) {
       .archive__item-teaser {
-        @include span(5 of 12);
+        @include span(5 of 10);
       }
 
       .archive__item-body {
-        @include span(7 of 12 last);
-        @include prefix(0.5 of 12);
-        @include suffix(1 of 12);
+        @include span(7 of 10 last);
+        @include prefix(0.5 of 10);
+        @include suffix(1 of 10);
       }
     }
   }
@@ -209,13 +209,13 @@
       text-align: right;
 
       .archive__item-teaser {
-        @include span(5 of 12 rtl);
+        @include span(5 of 10 rtl);
       }
 
       .archive__item-body {
-        @include span(7 of 12 last rtl);
-        @include prefix(0.5 of 12);
-        @include suffix(1 of 12);
+        @include span(7 of 10 last rtl);
+        @include prefix(0.5 of 10);
+        @include suffix(1 of 10);
       }
     }
   }
@@ -233,12 +233,12 @@
 
       .archive__item-teaser {
         margin: 0 auto;
-        width: span(5 of 12);
+        width: span(5 of 10);
       }
 
       .archive__item-body {
         margin: 0 auto;
-        width: span(7 of 12);
+        width: span(7 of 10);
       }
     }
   }
