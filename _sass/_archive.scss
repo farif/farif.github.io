@@ -10,7 +10,7 @@
   }
 
   @include breakpoint($large) {
-    @include span(13 of 15 last);
+    @include span(10 of 7 last);
     @include prefix(0.5 of 12);
   }
 
