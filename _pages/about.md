@@ -13,7 +13,7 @@ I am a Postdoctoral Researcher in the [Computational Logic Center](http://clc.cs
 at [The University of Iowa](https://cs.uiowa.edu/) <br />
 and my advisors are [Cesare Tinelli](https://homepage.cs.uiowa.edu/~tinelli/) 
 and [Omar Haider Chaudry](https://homepage.cs.uiowa.edu/~comarhaider/). 
-I received my Ph.D. from [University College Dublin](https://www.ucd.ie/) <br /> under the 
+I received my Ph.D. from <br /> [University College Dublin](https://www.ucd.ie/) under the 
 supervision of [Joao Marques-Silva](https://jpmarquessilva.github.io/).
 
 Research Interests
