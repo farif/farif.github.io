@@ -14,7 +14,7 @@ Education
 
 * PhD in CS, University College Dublin, 2016
 * MS in Logic and CS, TU Wien and TU Dresden, 2011
-* BS in CS, Sir Syed University of Engineering and Technology, 2005
+* BS in CS, University of Central Punjab Pakistan, 2005
 
 Previous Work Experience
 ======
