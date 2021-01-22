@@ -2,7 +2,6 @@
 title: "Logic Programming Approach for Concurrent Reachability Games "
 collection: publications
 permalink: /publication/2015-09-21-Msc-Thesis-Report
-excerpt: 'M. Fareed Arif &quot;Logic Programming Approach for Concurrent Reachability Games&quot; <i>TU Dresden / TU Wien, MSc. Thesis</i>'
 date: 2015-09-21 
 venue: 'TU Dresden / TU Wien, MSc. Thesis'
 ---
